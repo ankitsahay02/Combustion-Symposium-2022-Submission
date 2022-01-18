@@ -1,0 +1,126 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{lieuwen2005combustion}
+T.~C. Lieuwen, V.~Yang, Combustion Instabilities in Gas Turbine Engines:
+  Operational Experience, Fundamental Mechanisms, and Modeling, American
+  Institute of Aeronautics and Astronautics, 2005.
+
+\bibitem{sujith2021thermoacoustic}
+R.~I. Sujith, S.~A. Pawar, Thermoacoustic {I}nstability - {A} {C}omplex
+  {S}ystems {P}erspective, Springer Nature, 2021.
+
+\bibitem{culick2006unsteady}
+F.~E.~C. Culick, Unsteady motions in combustion chambers for propulsion
+  systems, Tech. rep., AGARDograph, NATO/RTO-AG-AVT-039 (2006).
+
+\bibitem{dowling2005feedback}
+A.~P. Dowling, A.~S. Morgans, Feedback {C}ontrol of {C}ombustion
+  {O}scillations, Annu. Rev. Fluid Mech. 37 (2005) 151--182.
+
+\bibitem{zhao2015review}
+D.~Zhao, X.~Li, A review of acoustic dampers applied to combustion chambers in
+  aerospace industry, Prog. Aerosp. Sci. 74 (2015) 114--130.
+
+\bibitem{park2008thermo}
+J.~H. Park, Y.~T. Guahk, H.~D. Shin, Thermo-acoustic {I}nstability in a
+  {C}ombustor with {B}ranch {T}ube, JSME-KSME, 2008.
+
+\bibitem{rajaram2012attenuation}
+R.~Rajaram, D.~M. Ritland, Attenuation of combustion dynamics using a
+  {H}erschel-{Q}uincke filter, {U}S Patent 8,336,312 (2012).
+
+\bibitem{zou2021quenching}
+W.~Zou, D.~V. Senthilkumar, M.~Zhan, J.~Kurths, Quenching, aging, and reviving
+  in coupled dynamical networks, Phys. Rep. 931 (2021) 1--72.
+
+\bibitem{thomas2018effect1}
+N.~Thomas, S.~Mondal, S.~A. Pawar, R.~I. Sujith, Effect of time-delay and
+  dissipative coupling on amplitude death in coupled thermoacoustic
+  oscillators, Chaos 28~(3) (2018) 033119.
+
+\bibitem{dange2019oscillation}
+S.~Dange, K.~Manoj, S.~Banerjee, S.~A. Pawar, S.~Mondal, R.~I. Sujith,
+  Oscillation quenching and phase-flip bifurcation in coupled thermoacoustic
+  systems, Chaos 29~(9) (2019) 093135.
+
+\bibitem{hyodo2020suppression}
+H.~Hyodo, M.~Iwasaki, T.~Biwa, Suppression of {R}ijke tube oscillations by
+  delay coupling, J. Appl. Phys. 128~(9) (2020) 094902.
+
+\bibitem{srikanth2021dynamical}
+S.~Srikanth, S.~A. Pawar, K.~Manoj, R.~I. Sujith, Dynamical {S}tates and
+  {B}ifurcations in {C}oupled {T}hermoacoustic {O}scillators, arXiv preprint
+  arXiv:2109.09600 (2021).
+
+\bibitem{thomas2018effect}
+N.~Thomas, S.~Mondal, S.~A. Pawar, R.~I. Sujith, Effect of noise amplification
+  during the transition to amplitude death in coupled thermoacoustic
+  oscillators, Chaos 28~(9) (2018) 093116.
+
+\bibitem{jegal2019mutual}
+H.~Jegal, K.~Moon, J.~Gu, L.~K.~B. Li, K.~T. Kim, Mutual synchronization of two
+  lean-premixed gas turbine combustors: {P}hase locking and amplitude death,
+  Combust. Flame 206 (2019) 424--437.
+
+\bibitem{moon2020mutual}
+K.~Moon, Y.~Guan, L.~K.~B. Li, K.~T. Kim, Mutual synchronization of two
+  flame-driven thermoacoustic oscillators: {D}issipative and time-delayed
+  coupling effects, Chaos 30~(2) (2020) 023110.
+
+\bibitem{guan2021low}
+Y.~Guan, K.~Moon, K.~T. Kim, L.~K.~B. Li, Low-order modeling of the mutual
+  synchronization between two turbulent thermoacoustic oscillators, Phys. Rev.
+  E 104~(2) (2021) 024216.
+
+\bibitem{sahay2021dynamics}
+A.~Sahay, A.~Roy, S.~A. Pawar, R.~I. Sujith, Dynamics of coupled thermoacoustic
+  oscillators under asymmetric forcing, Phys. Rev. Appl. 15~(4) (2021) 044011.
+
+\bibitem{just1997mechanism}
+W.~Just, T.~Bernard, M.~Ostheimer, E.~Reibold, H.~Benner, Mechanism of
+  time-delayed feedback control, Phys. Rev. Lett. 78~(2) (1997) 203.
+
+\bibitem{biwa2016suppression}
+T.~Biwa, Y.~Sawada, H.~Hyodo, S.~Kato, Suppression of {S}pontaneous {G}as
+  {O}scillations by {A}coustic {S}elf-{F}eedback, Phys. Rev. Appl. 6~(4) (2016)
+  044020.
+
+\bibitem{lato2019passive}
+T.~Lato, A.~Mohany, M.~Hassan, A passive damping device for suppressing
+  acoustic pressure pulsations: {T}he infinity tube, J. Acoust. Soc. 146~(6)
+  (2019) 4534--4544.
+
+\bibitem{srikanth2021selfcoupling}
+S.~Srikanth, A.~Sahay, S.~A. Pawar, K.~Manoj, R.~I. Sujith, Self-coupling: {A}n
+  {E}ffective {M}ethod to {M}itigate {T}hermoacoustic {I}nstability (2021).
+\newblock \href {http://arxiv.org/abs/2112.14152} {\path{arXiv:2112.14152}}.
+
+\bibitem{pikovsky2003synchronization}
+A.~Pikovsky, M.~Rosenblum, J.~Kurths, Synchronization: A Universal Concept in
+  Nonlinear Sciences, Vol.~12, Cambridge University Press, 2003.
+
+\bibitem{pawar2017thermoacoustic}
+S.~A. Pawar, A.~Seshadri, V.~R. Unni, R.~I. Sujith, Thermoacoustic instability
+  as mutual synchronization between the acoustic field of the confinement and
+  turbulent reactive flow, J. Fluid Mech. 827 (2017) 664--693.
+
+\bibitem{grinsted2004application}
+A.~Grinsted, J.~C. Moore, S.~Jevrejeva, Application of the cross wavelet
+  transform and wavelet coherence to geophysical time series, Nonlinear
+  Process. Geophys. 11~(5/6) (2004) 561--566.
+
+\bibitem{pawar2019temporal}
+S.~A. Pawar, S.~Mondal, N.~B. George, R.~I. Sujith, Temporal and
+  {S}patiotemporal {A}nalyses of {S}ynchronization {T}ransition in a
+  {S}wirl-{S}tabilized {C}ombustor, AIAA J 57~(2) (2019) 836--847.
+
+\bibitem{gonzalez2002amplitude}
+J.~M. Gonzalez-Miranda, Amplitude envelope synchronization in coupled chaotic
+  oscillators, Phys. Rev. E 65~(3) (2002) 036232.
+
+\end{thebibliography}
